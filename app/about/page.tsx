@@ -36,7 +36,7 @@ export default function About() {
                         >
                             <div className="absolute inset-0 bg-gradient-to-r from-streamwoo-blue via-streamwoo-purple to-streamwoo-pink rounded-3xl blur-2xl opacity-20 transform rotate-6 scale-95" />
                             <div className="relative rounded-3xl overflow-hidden shadow-2xl border-[8px] border-white max-w-lg mx-auto lg:mx-0">
-                                <img src="/assets/shows/show-5.jpeg" alt="Our Story" className="w-full h-auto object-cover" />
+                                <img src="/thumbnails/planet.jpeg" alt="Our Story" className="w-full h-auto object-cover" />
                             </div>
                         </motion.div>
                     </div>

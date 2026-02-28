@@ -49,7 +49,7 @@ export function Navbar() {
                     <div className="flex items-center justify-between h-20 md:h-24">
                         {/* Logo */}
                         <Link href="/" className="flex items-center gap-2 z-50">
-                            <img src="/assets/logo.jpeg" alt="Streamwoo" className="h-16 md:h-20 w-auto object-contain mix-blend-multiply" />
+                            <img src="/thumbnails/logo.jpeg" alt="Streamwoo" className="h-10 md:h-12 w-auto object-contain mix-blend-multiply" />
                         </Link>
 
                         {/* Desktop Nav */}
@@ -100,7 +100,7 @@ export function Navbar() {
                                     )}
                                 </div>
                             ) : (
-                                <a href="/app-release-61.apk" download="app-release-61.apk">
+                                <a href="" download="app-release-61.apk">
                                     <Button className="shadow-lg shadow-streamwoo-purple/20 hover:shadow-streamwoo-purple/40 transition-all duration-300">Download App</Button>
                                 </a>
                             )}
@@ -140,7 +140,7 @@ export function Navbar() {
                             <Button variant="ghost" className="w-full text-red-500 hover:bg-red-50 hover:text-red-600" onClick={handleLogout}>Logout</Button>
                         </>
                     ) : (
-                        <a href="/app-release-61.apk" download="app-release-61.apk" onClick={() => setIsOpen(false)} className="w-full">
+                        <a href="" download="app-release-61.apk" onClick={() => setIsOpen(false)} className="w-full">
                             <Button className="w-full shadow-lg shadow-streamwoo-purple/20">Download App</Button>
                         </a>
                     )}

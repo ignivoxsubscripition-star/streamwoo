@@ -10,7 +10,7 @@ export function Footer() {
                     {/* Brand */}
                     <div className="space-y-6">
                         <Link href="/" className="inline-block">
-                            <img src="/assets/logo.jpeg" alt="Streamwoo" className="h-20 w-auto object-contain mix-blend-multiply" />
+                            <img src="/thumbnails/logo.jpeg" alt="Streamwoo" className="h-14 w-auto object-contain mix-blend-multiply" />
                         </Link>
                         <p className="text-gray-500 text-sm leading-relaxed max-w-xs">
                             Stories that move you. Unmatched quality, exclusive originals, and universal access.

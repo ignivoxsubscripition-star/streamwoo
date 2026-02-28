@@ -8,16 +8,16 @@ import { motion } from "framer-motion";
 
 // Assuming 10 shows as per the user's rename command
 const shows = [
-    { id: 1, title: "The Barbershop", image: "/assets/shows/show-1.jpeg", category: "Drama" },
-    { id: 2, title: "The Loop", image: "/assets/shows/show-2.jpeg", category: "Sci-Fi" },
-    { id: 3, title: "Reappear", image: "/assets/shows/show-3.jpeg", category: "Romance" },
-    { id: 4, title: "The English Teacher", image: "/assets/shows/show-4.jpeg", category: "Drama" },
-    { id: 5, title: "The Cleaner", image: "/assets/shows/show-5.jpeg", category: "Thriller" },
-    { id: 6, title: "Two Strangers Who Meet Five Times", image: "/assets/shows/show-6.jpeg", category: "Drama" },
-    { id: 7, title: "Miscreant", image: "/assets/shows/show-7.jpeg", category: "Crime" },
-    { id: 8, title: "Redhanded", image: "/assets/shows/show-8.jpeg", category: "Comedy" },
-    { id: 9, title: "Carpark", image: "/assets/shows/show-9.jpeg", category: "Drama" },
-    { id: 10, title: "Only Space and Time", image: "/assets/shows/show-10.jpeg", category: "Sci-Fi" },
+    { id: 1, title: "Don't Forget About Me", image: "/thumbnails/don't forget about me.jpeg", category: "Drama" },
+    { id: 2, title: "Hoax", image: "/thumbnails/hoax.jpeg", category: "Sci-Fi" },
+    { id: 3, title: "I'm Not a Robot", image: "/thumbnails/im not a robot.jpeg", category: "Romance" },
+    { id: 4, title: "Into You", image: "/thumbnails/into you.jpeg", category: "Drama" },
+    { id: 5, title: "Planet", image: "/thumbnails/planet.jpeg", category: "Thriller" },
+    { id: 6, title: "Summer Lovr", image: "/thumbnails/summe lovr.avif", category: "Drama" },
+    { id: 7, title: "The Orphan", image: "/thumbnails/the orphan.jpeg", category: "Crime" },
+    { id: 8, title: "This Close", image: "/thumbnails/this close.jpeg", category: "Comedy" },
+    { id: 9, title: "We Don't Take Breaks", image: "/thumbnails/we don't take breakes.jpeg", category: "Drama" },
+    { id: 10, title: "You Are a Gift", image: "/thumbnails/you are a gift.avif", category: "Sci-Fi" },
 ];
 
 export default function Library() {

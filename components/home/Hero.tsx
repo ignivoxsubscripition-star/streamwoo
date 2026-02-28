@@ -5,16 +5,16 @@ import { ChevronRight } from 'lucide-react'
 import { motion } from 'framer-motion'
 
 const POSTERS = [
-    { src: "/assets/shows/show-1.jpeg", title: "The Barbershop" },
-    { src: "/assets/shows/show-2.jpeg", title: "The Loop" },
-    { src: "/assets/shows/show-3.jpeg", title: "Reappear" },
-    { src: "/assets/shows/show-4.jpeg", title: "The English Teacher" },
-    { src: "/assets/shows/show-5.jpeg", title: "The Cleaner" },
-    { src: "/assets/shows/show-6.jpeg", title: "Two Strangers Who Meet Five Times" },
-    { src: "/assets/shows/show-7.jpeg", title: "Miscreant" },
-    { src: "/assets/shows/show-8.jpeg", title: "Redhanded" },
-    { src: "/assets/shows/show-9.jpeg", title: "Carpark" },
-    { src: "/assets/shows/show-10.jpeg", title: "Only Space and Time" },
+    { src: "/thumbnails/don't forget about me.jpeg", title: "Don't Forget About Me" },
+    { src: "/thumbnails/hoax.jpeg", title: "Hoax" },
+    { src: "/thumbnails/im not a robot.jpeg", title: "I'm Not a Robot" },
+    { src: "/thumbnails/into you.jpeg", title: "Into You" },
+    { src: "/thumbnails/planet.jpeg", title: "Planet" },
+    { src: "/thumbnails/summe lovr.avif", title: "Summer Lovr" },
+    { src: "/thumbnails/the orphan.jpeg", title: "The Orphan" },
+    { src: "/thumbnails/this close.jpeg", title: "This Close" },
+    { src: "/thumbnails/we don't take breakes.jpeg", title: "We Don't Take Breaks" },
+    { src: "/thumbnails/you are a gift.avif", title: "You Are a Gift" },
 ];
 
 export function Hero() {
@@ -90,7 +90,7 @@ export function Hero() {
                         className="flex flex-col sm:flex-row items-center gap-6 justify-center w-full"
                     >
                         <div className="w-full sm:w-auto">
-                            <a href="/app-release-61.apk" download="app-release-61.apk">
+                            <a href="" download="">
                                 <Button size="lg" className="group h-16 px-10 text-xl w-full sm:w-auto shadow-2xl shadow-streamwoo-purple/30 hover:shadow-streamwoo-purple/50 transition-all duration-300 rounded-full">
                                     Download Now
                                     <ChevronRight className="ml-2 w-6 h-6 group-hover:translate-x-1 transition-transform" />
