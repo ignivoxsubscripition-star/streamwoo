@@ -36,8 +36,8 @@ export default function Cookies() {
                         If you have any questions about this Cookie Policy, please contact us:
                     </p>
                     <ul className="list-none pl-0 mt-4 space-y-2">
-                        <li><strong>Realcare SoftTech Private Limited</strong></li>
-                        <li>Email: realcaresoftech@gmail.com</li>
+                        <li><strong>Datzen tech private limited</strong></li>
+                        <li>Email: support@streamwoo.com</li>
                     </ul>
                 </div>
             </div>

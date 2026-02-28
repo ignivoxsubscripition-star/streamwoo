@@ -12,6 +12,11 @@ const outfit = Outfit({
 export const metadata: Metadata = {
   title: "Streamwoo | Premium OTT Streaming",
   description: "Watch the latest movies, web series, and exclusive originals on Streamwoo.",
+  icons: {
+    icon: "/thumbnails/logo.jpeg",
+    shortcut: "/thumbnails/logo.jpeg",
+    apple: "/thumbnails/logo.jpeg",
+  }
 };
 
 export default function RootLayout({

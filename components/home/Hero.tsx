@@ -67,9 +67,9 @@ export function Hero() {
                         transition={{ duration: 0.8, ease: "easeOut" }}
                         className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-black tracking-tighter text-gray-900 leading-[0.95] md:leading-[0.9] drop-shadow-sm"
                     >
-                        Stories that <br />
+                        Feel the Woo <br />
                         <span className="bg-clip-text text-transparent bg-gradient-to-r from-streamwoo-blue via-streamwoo-purple to-streamwoo-pink animate-gradient-x">
-                            Move You.
+                            Only on Streamwoo
                         </span>
                     </motion.h1>
 

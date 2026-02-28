@@ -56,9 +56,8 @@ export default function Contact() {
                             className="space-y-8 flex flex-col justify-center"
                         >
                             {[
-                                { icon: Mail, title: "Email Us", desc: "Our friendly team is here to help.", link: "mailto:realcaresoftech@gmail.com", linkText: "realcaresoftech@gmail.com" },
-                                { icon: MapPin, title: "Office", desc: "Come say hello at our office HQ.", text: <>Floor No 2, Building No TC/1-3687-2,<br />Kazhakootam, Thiruvananthapuram,<br />Kerala - 695582</> },
-                                { icon: Phone, title: "Phone", desc: "Mon-Fri from 9am to 6pm.", text: "8593093369" }
+                                { icon: Mail, title: "Email Us", desc: "Our friendly team is here to help.", link: "mailto:support@streamwoo.com", linkText: "support@streamwoo.com" },
+                                { icon: MapPin, title: "Office", desc: "Come say hello at our office HQ.", text: <>1ST FLOOR, Building no 9,<br />R T Nagar Bengaluru,<br />Bengaluru Urban Karnataka, PIN Code: 560032</> }
                             ].map((item, i) => (
                                 <motion.div
                                     key={i}

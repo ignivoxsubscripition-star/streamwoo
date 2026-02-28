@@ -13,7 +13,7 @@ export default function Terms() {
                 <div className="prose prose-lg max-w-none text-gray-600 space-y-6">
 
                     <p>
-                        Please read these Terms of Service ("Terms") carefully before using the Streamwoo website operated by Realcare SoftTech Private Limited.
+                        Please read these Terms of Service ("Terms") carefully before using the Streamwoo website operated by Datzen tech private limited.
                     </p>
 
                     <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">1. Acceptance of Terms</h2>
@@ -28,12 +28,12 @@ export default function Terms() {
 
                     <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">3. Intellectual Property</h2>
                     <p>
-                        The service and its original content, features, and functionality are and will remain the exclusive property of Realcare SoftTech Private Limited and its licensors.
+                        The service and its original content, features, and functionality are and will remain the exclusive property of Datzen tech private limited and its licensors.
                     </p>
 
                     <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">4. Governing Law</h2>
                     <p>
-                        These Terms shall be governed and construed in accordance with the laws of India, without regard to its conflict of law provisions. Any disputes shall be subject to the exclusive jurisdiction of the courts in Thiruvananthapuram, Kerala.
+                        These Terms shall be governed and construed in accordance with the laws of India, without regard to its conflict of law provisions. Any disputes shall be subject to the exclusive jurisdiction of the courts in Bengaluru, Karnataka.
                     </p>
 
                     <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">5. Contact Us</h2>
@@ -41,11 +41,10 @@ export default function Terms() {
                         If you have any questions about these Terms, please contact us:
                     </p>
                     <ul className="list-none pl-0 mt-4 space-y-2">
-                        <li><strong>Realcare SoftTech Private Limited</strong></li>
-                        <li>Floor No 2, Building No TC/1-3687-2, Kazhakootam</li>
-                        <li>Thiruvananthapuram, Kerala - 695582</li>
-                        <li>Email: realcaresoftech@gmail.com</li>
-                        <li>Phone: 8593093369</li>
+                        <li><strong>Datzen tech private limited</strong></li>
+                        <li>1ST FLOOR, Building no 9, R T Nagar Bengaluru</li>
+                        <li>Bengaluru Urban Karnataka, PIN Code: 560032</li>
+                        <li>Email: support@streamwoo.com</li>
                     </ul>
                 </div>
             </div>

@@ -45,26 +45,22 @@ export function Footer() {
                         <div className="space-y-6 text-sm text-gray-500">
                             <div>
                                 <p className="font-bold text-gray-900 text-base mb-3 flex items-start gap-2">
-                                    Realcare SoftTech Private Limited
+                                    Datzen tech private limited
                                 </p>
                                 <div className="flex items-start gap-3">
                                     <MapPin className="w-5 h-5 text-streamwoo-purple shrink-0 mt-0.5" />
                                     <div className="space-y-1 leading-relaxed">
-                                        <p>Floor No 2, Building No TC/1-3687-2,</p>
-                                        <p>Kazhakootam, Thiruvananthapuram,</p>
-                                        <p>Kerala - 695582</p>
+                                        <p>1ST FLOOR, Building no 9,</p>
+                                        <p>R T Nagar Bengaluru,</p>
+                                        <p>Bengaluru Urban Karnataka, PIN Code: 560032</p>
                                     </div>
                                 </div>
                             </div>
 
                             <div className="space-y-3">
-                                <a href="mailto:realcaresoftech@gmail.com" className="flex items-center gap-3 hover:text-streamwoo-purple transition-colors group">
+                                <a href="mailto:support@streamwoo.com" className="flex items-center gap-3 hover:text-streamwoo-purple transition-colors group">
                                     <Mail className="w-5 h-5 text-streamwoo-purple shrink-0" />
-                                    <span className="font-medium text-gray-900 group-hover:text-streamwoo-purple">realcaresoftech@gmail.com</span>
-                                </a>
-                                <a href="tel:8593093369" className="flex items-center gap-3 hover:text-streamwoo-purple transition-colors group">
-                                    <Phone className="w-5 h-5 text-streamwoo-purple shrink-0" />
-                                    <span className="font-medium text-gray-900 group-hover:text-streamwoo-purple">8593093369</span>
+                                    <span className="font-medium text-gray-900 group-hover:text-streamwoo-purple">support@streamwoo.com</span>
                                 </a>
                             </div>
                         </div>
@@ -73,10 +69,10 @@ export function Footer() {
 
                 <div className="border-t border-gray-200 pt-8 text-center">
                     <p className="text-gray-400 text-sm font-medium">
-                        © {new Date().getFullYear()} Realcare SoftTech Private Limited. All rights reserved.
+                        © {new Date().getFullYear()} Datzen tech private limited. All rights reserved.
                     </p>
                 </div>
             </div>
-        </footer>
+        </footer >
     )
 }

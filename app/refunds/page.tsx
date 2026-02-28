@@ -13,7 +13,7 @@ export default function Refunds() {
                 <div className="prose prose-lg max-w-none text-gray-600 space-y-6">
 
                     <p>
-                        Thank you for subscribing to Streamwoo services provided by Realcare SoftTech Private Limited.
+                        Thank you for subscribing to Streamwoo services provided by Datzen tech private limited.
                     </p>
 
                     <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">1. Refund Eligibility</h2>
@@ -34,9 +34,8 @@ export default function Refunds() {
                         For any questions regarding refunds, please contact us:
                     </p>
                     <ul className="list-none pl-0 mt-4 space-y-2">
-                        <li><strong>Realcare SoftTech Private Limited</strong></li>
-                        <li>Email: realcaresoftech@gmail.com</li>
-                        <li>Phone: 8593093369</li>
+                        <li><strong>Datzen tech private limited</strong></li>
+                        <li>Email: support@streamwoo.com</li>
                     </ul>
                 </div>
             </div>
