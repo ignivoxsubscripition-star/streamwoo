@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Outfit } from "next/font/google";
 import "./globals.css";
 import { AuthProvider } from "@/context/AuthContext";
+import Maintenance from "@/components/layout/Maintenance";
 
 const outfit = Outfit({
   variable: "--font-outfit",
@@ -19,6 +20,8 @@ export const metadata: Metadata = {
   }
 };
 
+const isMaintenanceMode = true; // Maintenance mode switch
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -30,7 +33,7 @@ export default function RootLayout({
         className={`${outfit.variable} antialiased`}
       >
         <AuthProvider>
-          {children}
+          {isMaintenanceMode ? <Maintenance /> : children}
         </AuthProvider>
       </body>
     </html>
