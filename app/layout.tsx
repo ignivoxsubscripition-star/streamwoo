@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   }
 };
 
-const isMaintenanceMode = true; // Maintenance mode switch
+const isMaintenanceMode = false; // Maintenance mode switch
 
 export default function RootLayout({
   children,
