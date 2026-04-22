@@ -57,7 +57,7 @@ export default function Contact() {
                         >
                             {[
                                 { icon: Mail, title: "Email Us", desc: "Our friendly team is here to help.", link: "mailto:support@streamwoo.com", linkText: "support@streamwoo.com" },
-                                { icon: MapPin, title: "Office", desc: "Come say hello at our office HQ.", text: <>1ST FLOOR, Building no 9,<br />R T Nagar Bengaluru,<br />Bengaluru Urban Karnataka, PIN Code: 560032</> }
+                                { icon: MapPin, title: "Office", desc: "Come say hello at our office HQ.", text: <>18/1 4th cross, 2nd floor, rahmath nagar,<br />R T Nagar, Bangalore North,<br />Bangalore- 560032, Karnataka</> }
                             ].map((item, i) => (
                                 <motion.div
                                     key={i}

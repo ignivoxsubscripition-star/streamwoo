@@ -13,7 +13,7 @@ export default function Accessibility() {
                 <div className="prose prose-lg max-w-none text-gray-600 space-y-6">
 
                     <p>
-                        Datzen tech private limited is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone, and applying the relevant accessibility standards.
+                        Nexfora Solutions Private Limited is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone, and applying the relevant accessibility standards.
                     </p>
 
                     <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">1. Conformance Status</h2>
@@ -26,9 +26,9 @@ export default function Accessibility() {
                         We welcome your feedback on the accessibility of Streamwoo. Please let us know if you encounter accessibility barriers on Streamwoo:
                     </p>
                     <ul className="list-none pl-0 mt-4 space-y-2">
-                        <li><strong>Datzen tech private limited</strong></li>
+                        <li><strong>Nexfora Solutions Private Limited</strong></li>
                         <li>Email: support@streamwoo.com</li>
-                        <li>Address: 1ST FLOOR, Building no 9, R T Nagar Bengaluru, Bengaluru Urban Karnataka, PIN Code: 560032</li>
+                        <li>Address: 18/1 4th cross, 2nd floor, rahmath nagar, R T Nagar, Bangalore North, Bangalore- 560032, Karnataka</li>
                     </ul>
                 </div>
             </div>

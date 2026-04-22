@@ -13,7 +13,7 @@ export default function Privacy() {
                 <div className="prose prose-lg max-w-none text-gray-600 space-y-6">
 
                     <p>
-                        Welcome to Streamwoo. This Privacy Policy describes how Datzen tech private limited ("we", "us", or "our") collects, uses, and discloses your information when you use our website and services.
+                        Welcome to Streamwoo. This Privacy Policy describes how Nexfora Solutions Private Limited ("we", "us", or "our") collects, uses, and discloses your information when you use our website and services.
                     </p>
 
                     <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">1. Information We Collect</h2>
@@ -41,9 +41,9 @@ export default function Privacy() {
                         If you have any questions about this Privacy Policy, please contact us at:
                     </p>
                     <ul className="list-none pl-0 mt-4 space-y-2">
-                        <li><strong>Datzen tech private limited</strong></li>
-                        <li>1ST FLOOR, Building no 9, R T Nagar Bengaluru</li>
-                        <li>Bengaluru Urban Karnataka, PIN Code: 560032</li>
+                        <li><strong>Nexfora Solutions Private Limited</strong></li>
+                        <li>18/1 4th cross, 2nd floor, rahmath nagar, R T Nagar, Bangalore North</li>
+                        <li>Bangalore- 560032, Karnataka</li>
                         <li>Email: support@streamwoo.com</li>
                     </ul>
                 </div>

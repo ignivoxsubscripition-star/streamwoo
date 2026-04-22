@@ -45,14 +45,14 @@ export function Footer() {
                         <div className="space-y-6 text-sm text-gray-500">
                             <div>
                                 <p className="font-bold text-gray-900 text-base mb-3 flex items-start gap-2">
-                                    Datzen tech private limited
+                                    Nexfora Solutions Private Limited
                                 </p>
                                 <div className="flex items-start gap-3">
                                     <MapPin className="w-5 h-5 text-streamwoo-purple shrink-0 mt-0.5" />
                                     <div className="space-y-1 leading-relaxed">
-                                        <p>1ST FLOOR, Building no 9,</p>
-                                        <p>R T Nagar Bengaluru,</p>
-                                        <p>Bengaluru Urban Karnataka, PIN Code: 560032</p>
+                                        <p>18/1 4th cross, 2nd floor, rahmath nagar,</p>
+                                        <p>R T Nagar, Bangalore North,</p>
+                                        <p>Bangalore- 560032, Karnataka</p>
                                     </div>
                                 </div>
                             </div>
@@ -69,7 +69,7 @@ export function Footer() {
 
                 <div className="border-t border-gray-200 pt-8 text-center">
                     <p className="text-gray-400 text-sm font-medium">
-                        © {new Date().getFullYear()} Datzen tech private limited. All rights reserved.
+                        © {new Date().getFullYear()} Nexfora Solutions Private Limited. All rights reserved.
                     </p>
                 </div>
             </div>

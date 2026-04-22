@@ -36,7 +36,7 @@ export default function Cookies() {
                         If you have any questions about this Cookie Policy, please contact us:
                     </p>
                     <ul className="list-none pl-0 mt-4 space-y-2">
-                        <li><strong>Datzen tech private limited</strong></li>
+                        <li><strong>Nexfora Solutions Private Limited</strong></li>
                         <li>Email: support@streamwoo.com</li>
                     </ul>
                 </div>
